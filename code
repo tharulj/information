@@ -1,0 +1,15 @@
+name =input("What is your name? ")
+school =input("What is the school you are going? ")
+age =input("How old are you")
+hobby =input("What do you do as a hobby? ")
+pets =input("How many pets do you have? ")
+question =input("Do you like Basketball?")
+
+print ("My name is " + name )
+print ("I go to " + school )
+print ("My age is " + age)
+print ("My favorite hobby is " + hobby )
+print ("I have pets "+ pets)
+print (name + " may be liking " + question)
+
+print ("I have " + pets + " pets!")
